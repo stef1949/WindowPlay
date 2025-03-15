@@ -21,7 +21,7 @@ WindowPlay is a project aimed at creating a versatile and user-friendly window m
 ## Requirements
 
 - [.NET 5+ SDK](https://dotnet.microsoft.com/download)
-- [Makaretu.MDNS NuGet Package](https://www.nuget.org/packages/Makaretu.MDNS/)
+- [Makaretu.MDNS NuGet Package](https://www.nuget.org/packages/Makaretu.Dns.Multicast.New/0.38.0?_src=template)
 - [NAudio NuGet Package](https://www.nuget.org/packages/NAudio/)
 
 ## Project Structure
