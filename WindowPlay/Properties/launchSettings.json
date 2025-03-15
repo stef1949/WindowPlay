@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowPlay (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WindowPlay (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
